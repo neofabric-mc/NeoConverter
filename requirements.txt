@@ -1,0 +1,1 @@
+# 运行仅标准库：Python 3 + tkinter + ctypes；无需安装第三方运行依赖。
